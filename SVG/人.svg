@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2-alpha (0bd5040e63, 2022-02-05)"
+   sodipodi:docname="人.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:blackoutopacity="0.0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.828427"
+     inkscape:cx="19.445437"
+     inkscape:cy="94.221983"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="-9"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:175.536px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.38838"
+       x="2.3197703"
+       y="156.70367"
+       id="text2280"><tspan
+         sodipodi:role="line"
+         id="tspan2278"
+         x="2.3197703"
+         y="156.70367"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:175.536px;font-family:'WenYue Juzhen';-inkscape-font-specification:'WenYue Juzhen';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:4.38838">人</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="图层 2"
+     style="display:inline">
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffd42a;fill-opacity:0.609231;stroke:none;stroke-width:2.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.1, 4.2;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 6.3276712,175.42451 C 80.761433,146.07814 99.564723,59.412099 107.17088,28.549438 c 1.00086,-4.061087 5.12652,-3.049398 5.39169,-4.728777 0.26516,-1.679379 -2.38649,-3.49134 -6.01041,-7.115262 -3.62392,-3.623923 -6.31977,-9.5901366 -14.451497,-11.3137528 l -0.780575,1.6225435 c 0,0 4.09353,1.0664026 2.804917,17.3608113 C 92.385113,46.375804 72.603172,140.24091 5.6459928,173.58584 Z"
+       id="path6263"
+       sodipodi:nodetypes="csssccscc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffd42a;fill-opacity:0.609231;stroke:none;stroke-width:2.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.1, 4.2;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 86.974138,81.052119 c 15.026022,18.208 52.656882,87.860181 56.943542,89.328451 3.36764,1.15349 31.05505,-2.5677 31.05505,-2.5677 l -0.1084,-4.19975 c 0,0 -13.36845,-1.38673 -25.67735,-12.69601 C 118.72408,122.92814 108.68135,98.410561 90,76.561318 Z"
+       id="path7061"
+       sodipodi:nodetypes="csccscc" />
+  </g>
+</svg>
